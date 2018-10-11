@@ -6,3 +6,4 @@ This is a repository containing the solutions for the [Project Euler Questions](
 
 1. [Multiples of 3 and 5](https://projecteuler.net/problem=1)
 2. [Even Fibonacci Numbers](https://projecteuler.net/problem=2)
+3. [Largest Prime Factor](https://projecteuler.net/problem=3)
